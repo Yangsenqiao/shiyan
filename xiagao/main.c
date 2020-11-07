@@ -1,0 +1,14 @@
+//
+//  main.c
+//  xiagao
+//
+//  Created by 杨森乔 on 2020/11/7.
+//
+
+#include <stdio.h>
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    printf("Hello, World!\n");
+    return 0;
+}
